@@ -9,7 +9,7 @@
 - [Summary Load Testing](https://github.com/asaha12/Performance-Testing-Project-1#Summary-Load-Testing)
 - [Conclusion](https://github.com/asaha12/Performance-Testing-Project-1#Conclusion)
 ## Introduction
-- This report provides an overview of the load testing, stress testing, and spike testing conducted on the Opencart website. The objective of this testing was to evaluate the system's performance under various load conditions and ensure it meets the specified requirements.
+- This report provides an overview of the load testing, stress testing, and spike testing conducted on the test website. The objective of this testing was to evaluate the system's performance under various load conditions and ensure it meets the specified requirements.
 ## Install
 - **Java**  
 https://www.oracle.com/java/technologies/downloads/
