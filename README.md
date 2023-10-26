@@ -87,7 +87,7 @@ Errors 5000 Threads
 
 ## Summary Load Testing
 - While executing 3000 & 4000 concurrent requests, 0 requests got connection timeout and the error rate is 0%.
-- Server can handle almost concurrent 900 API calls with almost zero (0) error rate.
+- Server can handle almost concurrent all API calls with almost zero (0) error rate.
 
 
 ## Conclusion
